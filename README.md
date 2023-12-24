@@ -5,4 +5,4 @@ Cara menjalankan di Visual Studio Code:
 3. Terakhir tinggal di run di Visual Studio Code
 
 4. Setelah menjalankan anda diminta untuk memasukan pilih jumlah cluster (notes* ini bisa diinput di k-means dan c-means)
-![Alt Text](screenshot/input-c-means.png.png)
+![Alt Text](https://github.com/pausia/Implementasi-K-Means-dan-Fuzzy-C-Means/blob/main/screenshot/input-c-means.png?raw=true)
