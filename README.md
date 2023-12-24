@@ -1,4 +1,12 @@
 # Implementasi-K-Means-dan-Fuzzy-C-Means
+
+## Perkenalan
+Halo! disini saya mengerjakan tugas logika fuzzy saya yaitu Implementasi-K-Means-dan-Fuzzy-C-Means
+### Nurfauziah Makmur
+### E1E120087
+### Kelas Ganjil
+
+## Installation
 Cara menjalankan di Visual Studio Code:
 1. Pertama git clone https://github.com/pausia/Implementasi-K-Means-dan-Fuzzy-C-Means.git
 2. Silahkan install pandas, matplotlib.pyplot, seaborn, sklearn.preprocessing, sklearn.decomposition, numpym dan IPython.display
@@ -20,3 +28,6 @@ Untuk Fuzzy C-means:
 ![diagrambatang](https://github.com/pausia/Implementasi-K-Means-dan-Fuzzy-C-Means/blob/main/screenshot/diagrambatang.png?raw=true)
 
 ![c-means](https://github.com/pausia/Implementasi-K-Means-dan-Fuzzy-C-Means/blob/main/screenshot/c-means.png?raw=true)
+
+
+### Terima Kasih
