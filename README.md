@@ -1,7 +1,7 @@
 # Implementasi-K-Means-dan-Fuzzy-C-Means
 
 ## Perkenalan
-Halo! disini saya mengerjakan tugas logika fuzzy saya yaitu Implementasi-K-Means-dan-Fuzzy-C-Means
+Halo! disini saya mengerjakan tugas logika fuzzy saya yaitu Implementasi-K-Means-dan-Fuzzy-C-Means.
 ### Nurfauziah Makmur
 ### E1E120087
 ### Kelas Ganjil
